@@ -1,0 +1,7 @@
+import os
+os.system("cls")
+
+
+congratulations = input("Enter congratulations message in lower letters: ")
+
+print(f"UpperCase Version: {congratulations.upper()}")
